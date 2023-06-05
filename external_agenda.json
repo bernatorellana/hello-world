@@ -1,0 +1,20 @@
+{
+"events":[
+	{
+		"year":2016,
+		"month":4,
+		"day": 7,
+		"hour":23,
+		"minute":0,
+		"description": "Sopar d'Empresa"
+	},
+	  {
+		"year":2016,
+		"month":4,
+		"day": 8,
+		"hour":8,
+		"minute":0,
+		"description": "Ressaca d'Empresa"
+	}
+  ]
+}
