@@ -1,17 +1,17 @@
 {
 "events":[
 	{
-		"year":2016,
-		"month":4,
-		"day": 7,
+		"year":2023,
+		"month":6,
+		"day": 6,
 		"hour":23,
 		"minute":0,
 		"description": "Sopar d'Empresa"
 	},
 	  {
-		"year":2016,
-		"month":4,
-		"day": 8,
+		"year":2023,
+		"month":6,
+		"day": 7,
 		"hour":8,
 		"minute":0,
 		"description": "Ressaca d'Empresa"
